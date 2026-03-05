@@ -1,0 +1,9 @@
+,num_outliers,outlier_ratio
+TransactionAmount,0.0,0.0
+RemainingDebt,1046.0,0.007374610471100833
+TotalPaymentReceived,0.0,0.0
+PenaltyRecoveries,19203.0,0.135386849786376
+RecoveryCost,19194.0,0.13532339711501853
+LastTransactionValue,9777.0,0.06893075198465855
+LastReputationScore,0.0,0.0
+LateServicePenalty,7380.0,0.0520311905131206
